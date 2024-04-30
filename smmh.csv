@@ -1,0 +1,482 @@
+Timestamp,1. What is your age?,2. Gender,3. Relationship Status,4. Occupation Status,5. What type of organizations are you affiliated with?,6. Do you use social media?,7. What social media platforms do you commonly use?,8. What is the average time you spend on social media every day?,9. How often do you find yourself using Social media without a specific purpose?,10. How often do you get distracted by Social media when you are busy doing something?,11. Do you feel restless if you haven't used Social media in a while?,"12. On a scale of 1 to 5, how easily distracted are you?","13. On a scale of 1 to 5, how much are you bothered by worries?",14. Do you find it difficult to concentrate on things?,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?","16. Following the previous question, how do you feel about these comparisons, generally speaking?",17. How often do you look to seek validation from features of social media?,18. How often do you feel depressed or down?,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?","20. On a scale of 1 to 5, how often do you face issues regarding sleep?"
+4/18/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5.00,3.00,2.00,5.00,2.00,5.00,2.00,3.00,2.00,5.00,4.00,5.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",More than 5 hours,4.00,3.00,2.00,4.00,5.00,4.00,5.00,1.00,1.00,5.00,4.00,5.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3.00,2.00,1.00,2.00,5.00,4.00,3.00,3.00,1.00,4.00,2.00,5.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram",More than 5 hours,4.00,2.00,1.00,3.00,5.00,3.00,5.00,1.00,2.00,4.00,3.00,2.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3.00,5.00,4.00,4.00,5.00,5.00,3.00,3.00,3.00,4.00,4.00,1.00
+4/18/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4.00,4.00,2.00,3.00,4.00,3.00,4.00,4.00,3.00,3.00,2.00,4.00
+4/18/22,21.00,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,4.00,3.00,2.00,2.00,4.00,3.00,5.00,3.00,4.00,5.00,5.00,3.00
+4/18/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5.00,2.00,3.00,3.00,3.00,1.00,1.00,3.00,1.00,5.00,5.00,1.00
+4/18/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5.00,2.00,3.00,3.00,1.00,1.00,1.00,3.00,1.00,5.00,5.00,1.00
+4/18/22,20.00,Male,Single,University Student,University,No,"Reddit, Pinterest",Less than an Hour,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+4/18/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,5.00,5.00,2.00,4.00,3.00,5.00,4.00,2.00,3.00,5.00,4.00,5.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4.00,4.00,2.00,5.00,3.00,4.00,2.00,2.00,3.00,3.00,4.00,2.00
+4/18/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,3.00,4.00,2.00,4.00,4.00,2.00,4.00,2.00,1.00,3.00,1.00,5.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",Between 3 and 4 hours,5.00,3.00,2.00,1.00,4.00,4.00,2.00,3.00,2.00,3.00,3.00,3.00
+4/18/22,22.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Pinterest",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+4/18/22,23.00,Male,In a relationship,University Student,Private,Yes,"Facebook, Instagram, YouTube, Reddit",Between 1 and 2 hours,3.00,4.00,2.00,3.00,4.00,4.00,3.00,2.00,2.00,3.00,4.00,2.00
+4/18/22,21.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord",Less than an Hour,2.00,2.00,1.00,2.00,4.00,2.00,1.00,3.00,1.00,4.00,1.00,3.00
+4/18/22,25.00,Male,Single,School Student,N/A,Yes,"Facebook, Instagram, YouTube, Reddit",Between 4 and 5 hours,5.00,5.00,4.00,4.00,3.00,3.00,1.00,4.00,2.00,2.00,2.00,2.00
+4/18/22,28.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3.00,4.00,2.00,4.00,5.00,5.00,2.00,3.00,1.00,3.00,3.00,1.00
+4/18/22,34.00,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2.00,4.00,3.00,3.00,4.00,1.00,1.00,5.00,3.00,2.00,2.00,2.00
+4/18/22,22.00,Male,In a relationship,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4.00,2.00,2.00,3.00,3.00,2.00,2.00,2.00,1.00,2.00,3.00,2.00
+4/18/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,3.00,2.00,4.00,2.00,4.00,2.00,5.00,2.00,1.00,3.00,3.00,1.00
+4/18/22,26.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3.00,4.00,3.00,3.00,4.00,4.00,4.00,3.00,3.00,4.00,4.00,4.00
+4/18/22,23.00,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,3.00,2.00,2.00,4.00,4.00,3.00,3.00,2.00,3.00,4.00,4.00,1.00
+4/18/22,23.00,Male,Single,University Student,N/A,Yes,"Facebook, Twitter, YouTube, Discord",Between 3 and 4 hours,3.00,3.00,5.00,5.00,5.00,5.00,4.00,1.00,3.00,3.00,5.00,5.00
+4/18/22,35.00,Female,Married,Salaried Worker,"School, University",Yes,"Facebook, YouTube",Between 3 and 4 hours,4.00,4.00,3.00,3.00,3.00,3.00,4.00,4.00,4.00,4.00,2.00,2.00
+4/18/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4.00,4.00,3.00,3.00,3.00,4.00,2.00,3.00,3.00,4.00,3.00,4.00
+4/18/22,35.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,2.00,4.00,4.00,4.00,4.00,4.00,4.00,4.00,4.00,4.00,4.00,5.00
+4/18/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3.00,4.00,3.00,4.00,5.00,4.00,4.00,3.00,2.00,4.00,4.00,1.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4.00,4.00,5.00,5.00,5.00,4.00,4.00,4.00,3.00,5.00,4.00,1.00
+4/18/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4.00,4.00,3.00,3.00,5.00,4.00,5.00,2.00,3.00,5.00,4.00,3.00
+4/18/22,35.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3.00,4.00,3.00,3.00,3.00,2.00,2.00,2.00,2.00,3.00,4.00,2.00
+4/18/22,24.00,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,3.00,3.00,3.00,3.00,3.00,4.00,2.00,3.00,3.00,2.00,3.00,3.00
+4/18/22,18.00,Female,Single,School Student,"School, Private",Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4.00,3.00,3.00,3.00,4.00,3.00,3.00,2.00,4.00,3.00,3.00,2.00
+4/18/22,19.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5.00,5.00,5.00,5.00,5.00,5.00,2.00,3.00,1.00,5.00,4.00,4.00
+4/18/22,21.00,Nonbinary ,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,3.00,4.00,5.00,4.00,4.00,5.00,1.00,3.00,1.00,4.00,2.00,1.00
+4/18/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram",Between 3 and 4 hours,5.00,3.00,4.00,3.00,2.00,3.00,5.00,3.00,4.00,3.00,3.00,1.00
+4/18/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,2.00,3.00,1.00,1.00,1.00,3.00,1.00,3.00,1.00,5.00,4.00,5.00
+4/18/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 3 and 4 hours,4.00,5.00,5.00,4.00,4.00,4.00,2.00,3.00,3.00,2.00,2.00,5.00
+4/18/22,22.00,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord",Between 2 and 3 hours,4.00,4.00,2.00,4.00,3.00,5.00,1.00,3.00,1.00,1.00,3.00,4.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,1.00,1.00,1.00,1.00,1.00,1.00,2.00,1.00,2.00,3.00,3.00,1.00
+4/18/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3.00,5.00,2.00,3.00,3.00,3.00,3.00,4.00,2.00,4.00,2.00,2.00
+4/18/22,56.00,Female,Married,Retired,N/A,Yes,YouTube,Between 1 and 2 hours,1.00,1.00,1.00,1.00,3.00,1.00,1.00,3.00,1.00,2.00,3.00,1.00
+4/18/22,19.00,Female,Single,School Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3.00,2.00,4.00,4.00,5.00,4.00,5.00,2.00,1.00,5.00,4.00,2.00
+4/18/22,24.00,Male,Single,Salaried Worker,Private,Yes,"Twitter, Discord, Reddit",More than 5 hours,5.00,1.00,1.00,3.00,3.00,3.00,1.00,3.00,3.00,3.00,3.00,3.00
+4/18/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,4.00,5.00,4.00,4.00,5.00,2.00,3.00,3.00,3.00,3.00,2.00,3.00
+4/18/22,65.00,Male,Married,Retired,Goverment,Yes,"Facebook, YouTube",Between 3 and 4 hours,5.00,3.00,2.00,2.00,2.00,1.00,3.00,4.00,3.00,1.00,3.00,2.00
+4/18/22,17.00,Female,Single,School Student,N/A,Yes,"Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4.00,3.00,1.00,3.00,5.00,3.00,4.00,2.00,1.00,3.00,5.00,1.00
+4/18/22,40.00,Male,Married,Salaried Worker,"Company, Private",Yes,"Twitter, YouTube, Reddit",Between 2 and 3 hours,3.00,3.00,3.00,3.00,2.00,3.00,2.00,3.00,1.00,2.00,2.00,1.00
+4/18/22,33.00,Female,Single,Salaried Worker,School,Yes,"Facebook, YouTube",Between 3 and 4 hours,3.00,3.00,1.00,3.00,2.00,1.00,2.00,2.00,1.00,1.00,1.00,1.00
+4/18/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4.00,4.00,3.00,4.00,3.00,2.00,1.00,3.00,3.00,3.00,4.00,4.00
+4/18/22,24.00,Male,Single,Salaried Worker,Company,Yes,"YouTube, Snapchat, Discord",More than 5 hours,5.00,5.00,5.00,5.00,4.00,5.00,2.00,2.00,1.00,3.00,5.00,1.00
+4/18/22,26.00,Male,Single,University Student,University,Yes,Facebook,Less than an Hour,3.00,5.00,3.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+4/18/22,55.00,Male,Married,Salaried Worker,Private,Yes,"Discord, Reddit",Between 1 and 2 hours,3.00,2.00,1.00,3.00,2.00,1.00,1.00,3.00,1.00,1.00,2.00,1.00
+4/18/22,26.00,Male,In a relationship,Salaried Worker,Company,No,"YouTube, Discord, Reddit",Between 1 and 2 hours,4.00,1.00,1.00,2.00,2.00,1.00,1.00,3.00,1.00,1.00,3.00,2.00
+4/18/22,27.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,2.00,5.00,5.00,4.00,4.00,5.00,3.00,3.00,4.00,5.00,2.00,3.00
+4/18/22,22.00,Male,Married,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,3.00,2.00,1.00,2.00,4.00,2.00,1.00,3.00,1.00,3.00,4.00,2.00
+4/18/22,19.00,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3.00,2.00,2.00,2.00,4.00,3.00,3.00,3.00,2.00,4.00,4.00,5.00
+4/18/22,22.00,Female,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4.00,5.00,2.00,4.00,4.00,4.00,3.00,3.00,4.00,5.00,4.00,2.00
+4/18/22,20.00,Female,Married,University Student,University,Yes,"Instagram, Reddit",Between 1 and 2 hours,1.00,1.00,1.00,2.00,2.00,2.00,1.00,3.00,1.00,1.00,3.00,5.00
+4/18/22,25.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,4.00,3.00,3.00,4.00,4.00,4.00,2.00,2.00,2.00,4.00,3.00,4.00
+4/18/22,25.00,Female,Married,University Student,University,Yes,"YouTube, Reddit",Between 1 and 2 hours,2.00,2.00,1.00,3.00,5.00,4.00,5.00,2.00,4.00,4.00,5.00,4.00
+4/18/22,18.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4.00,4.00,3.00,5.00,4.00,3.00,1.00,3.00,1.00,5.00,4.00,5.00
+4/18/22,25.00,Male,Single,Salaried Worker,N/A,Yes,Reddit,Between 1 and 2 hours,3.00,1.00,1.00,3.00,2.00,4.00,1.00,3.00,1.00,5.00,1.00,5.00
+4/18/22,19.00,Female,Single,University Student,N/A,Yes,"Discord, Reddit",Between 2 and 3 hours,2.00,3.00,1.00,5.00,3.00,5.00,1.00,3.00,1.00,1.00,5.00,4.00
+4/18/22,24.00,Male,In a relationship,School Student,University,Yes,"YouTube, Discord, Reddit",Between 1 and 2 hours,3.00,2.00,4.00,3.00,2.00,2.00,1.00,3.00,2.00,2.00,4.00,4.00
+4/18/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,2.00,4.00,4.00,4.00,1.00
+4/19/22,18.00,Non-binary,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,2.00,1.00,2.00,3.00,5.00,3.00,2.00,3.00,2.00,4.00,2.00,4.00
+4/19/22,14.00,Male,Single,School Student,School,Yes,Reddit,Between 1 and 2 hours,4.00,2.00,2.00,3.00,5.00,3.00,3.00,4.00,2.00,4.00,4.00,4.00
+4/19/22,25.00,Male,Single,University Student,University,Yes,"YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4.00,4.00,3.00,3.00,3.00,2.00,3.00,2.00,2.00,3.00,4.00,4.00
+4/19/22,33.00,Male,Married,Salaried Worker,Private,Yes,"Instagram, YouTube",Between 3 and 4 hours,2.00,4.00,3.00,2.00,2.00,2.00,1.00,1.00,1.00,1.00,2.00,2.00
+4/19/22,23.00,Male,Single,School Student,"University, Company",Yes,"Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+4/19/22,14.00,Female,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4.00,4.00,2.00,2.00,4.00,2.00,4.00,2.00,4.00,4.00,4.00,5.00
+4/19/22,38.00,Male,Married,Salaried Worker,University,Yes,"Twitter, YouTube, Discord, Reddit",Between 1 and 2 hours,5.00,2.00,1.00,3.00,2.00,1.00,1.00,3.00,1.00,2.00,1.00,2.00
+4/19/22,23.00,Female,Single,Retired,N/A,Yes,"Facebook, YouTube, Discord, Reddit",Between 4 and 5 hours,4.00,4.00,3.00,3.00,4.00,5.00,3.00,2.00,4.00,5.00,5.00,4.00
+4/19/22,26.00,Male,Single,Salaried Worker,Company,Yes,Reddit,Less than an Hour,2.00,1.00,1.00,3.00,2.00,1.00,1.00,1.00,1.00,2.00,3.00,4.00
+4/19/22,24.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Reddit",Between 2 and 3 hours,4.00,5.00,3.00,4.00,3.00,2.00,2.00,3.00,4.00,5.00,4.00,2.00
+4/19/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4.00,3.00,4.00,4.00,5.00,4.00,5.00,1.00,2.00,4.00,4.00,2.00
+4/19/22,18.00,Female,Single,University Student,"University, Goverment, Private",Yes,"Facebook, YouTube, Reddit",Between 3 and 4 hours,4.00,3.00,3.00,3.00,5.00,5.00,4.00,3.00,1.00,5.00,5.00,5.00
+4/19/22,28.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit",Between 3 and 4 hours,2.00,5.00,4.00,3.00,5.00,5.00,5.00,2.00,1.00,5.00,3.00,5.00
+4/19/22,22.00,Male,Single,University Student,N/A,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4.00,4.00,4.00,5.00,5.00,5.00,3.00,3.00,1.00,4.00,4.00,5.00
+4/19/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4.00,4.00,2.00,5.00,4.00,4.00,3.00,3.00,2.00,1.00,5.00,4.00
+4/19/22,21.00,Male,Single,University Student,University,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5.00,5.00,3.00,5.00,4.00,5.00,2.00,3.00,2.00,4.00,5.00,2.00
+4/19/22,21.00,Female,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest",Between 4 and 5 hours,3.00,5.00,5.00,5.00,3.00,5.00,4.00,4.00,3.00,4.00,5.00,5.00
+4/19/22,17.00,Male,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 2 and 3 hours,4.00,4.00,3.00,4.00,5.00,4.00,3.00,2.00,4.00,2.00,4.00,2.00
+4/19/22,24.00,NB,Single,Salaried Worker,N/A,Yes,"YouTube, Reddit",Between 2 and 3 hours,4.00,3.00,2.00,3.00,5.00,2.00,3.00,2.00,2.00,4.00,3.00,1.00
+4/19/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,3.00,4.00,3.00,4.00,1.00,3.00,1.00,2.00,2.00,2.00,4.00,4.00
+4/19/22,32.00,Female,Married,Salaried Worker,Company,Yes,Reddit,Between 1 and 2 hours,4.00,3.00,2.00,5.00,2.00,5.00,2.00,4.00,1.00,1.00,2.00,1.00
+4/19/22,22.00,Male,Single,University Student,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,5.00,4.00,2.00,2.00,1.00,3.00,1.00,3.00,5.00,3.00,2.00,2.00
+4/19/22,20.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4.00,5.00,4.00,5.00,5.00,5.00,4.00,2.00,4.00,5.00,5.00,4.00
+4/19/22,22.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,3.00,5.00,2.00,4.00,4.00,4.00,2.00,3.00,2.00,4.00,4.00,3.00
+4/19/22,28.00,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,4.00,5.00,4.00,5.00,5.00,5.00,2.00,3.00,2.00,4.00,5.00,2.00
+4/19/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4.00,3.00,3.00,4.00,5.00,4.00,1.00,3.00,2.00,4.00,2.00,1.00
+4/19/22,17.00,unsure ,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4.00,4.00,3.00,4.00,2.00,4.00,3.00,2.00,2.00,3.00,3.00,5.00
+4/19/22,30.00,Female,Single,Salaried Worker,University,Yes,Instagram,Between 4 and 5 hours,4.00,5.00,3.00,2.00,4.00,4.00,3.00,3.00,3.00,4.00,4.00,4.00
+4/19/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5.00,5.00,1.00,3.00,2.00,5.00,2.00,1.00,1.00,3.00,1.00,5.00
+4/19/22,14.00,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord",Between 4 and 5 hours,5.00,5.00,2.00,4.00,2.00,3.00,1.00,3.00,1.00,1.00,3.00,5.00
+4/19/22,20.00,Male,Single,School Student,N/A,Yes,"YouTube, Reddit",More than 5 hours,4.00,2.00,1.00,2.00,1.00,1.00,2.00,2.00,1.00,4.00,3.00,2.00
+4/19/22,22.00,Female,Single,School Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4.00,4.00,4.00,4.00,4.00,5.00,5.00,3.00,4.00,5.00,5.00,3.00
+4/19/22,16.00,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,4.00,5.00,2.00,5.00,3.00,4.00,3.00,1.00,4.00,2.00,1.00,3.00
+4/19/22,22.00,Female,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3.00,4.00,3.00,4.00,4.00,3.00,2.00,2.00,3.00,3.00,2.00,3.00
+4/19/22,22.00,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,5.00,4.00,3.00,4.00,4.00,2.00,1.00,1.00,1.00,5.00,3.00,5.00
+4/19/22,22.00,Male,Single,University Student,University,Yes,Instagram,Between 3 and 4 hours,3.00,4.00,3.00,3.00,4.00,3.00,2.00,3.00,3.00,4.00,3.00,3.00
+4/19/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4.00,3.00,4.00,3.00,5.00,5.00,3.00,3.00,4.00,3.00,5.00,5.00
+4/19/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,2.00,3.00,4.00,3.00,3.00,3.00,3.00,4.00,4.00,1.00,3.00,3.00
+4/19/22,23.00,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 4 and 5 hours,2.00,3.00,4.00,3.00,3.00,3.00,3.00,4.00,3.00,2.00,4.00,5.00
+4/19/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, TikTok",Between 2 and 3 hours,3.00,2.00,2.00,4.00,2.00,2.00,1.00,3.00,3.00,3.00,4.00,5.00
+4/19/22,48.00,Female,Married,Salaried Worker,School,Yes,"Facebook, YouTube",Between 1 and 2 hours,1.00,1.00,1.00,1.00,3.00,2.00,1.00,3.00,2.00,1.00,1.00,1.00
+4/19/22,21.00,Female,In a relationship,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3.00,2.00,1.00,3.00,2.00,3.00,2.00,1.00,3.00,2.00,2.00,5.00
+4/19/22,47.00,Female,Married,Salaried Worker,Goverment,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4.00,3.00,3.00,3.00,2.00,2.00,2.00,3.00,3.00,3.00,3.00,3.00
+4/19/22,48.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3.00,3.00,4.00,4.00,4.00,4.00,4.00,3.00,3.00,2.00,3.00,3.00
+4/19/22,26.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4.00,5.00,4.00,4.00,5.00,3.00,5.00,4.00,3.00,4.00,2.00,3.00
+4/19/22,47.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, YouTube",Between 2 and 3 hours,4.00,3.00,4.00,4.00,3.00,3.00,2.00,3.00,1.00,2.00,2.00,4.00
+4/19/22,47.00,Male,Married,Salaried Worker,"University, Private",Yes,"Facebook, Instagram, Snapchat",Between 1 and 2 hours,2.00,4.00,3.00,3.00,3.00,3.00,3.00,3.00,2.00,2.00,3.00,4.00
+4/19/22,27.00,Female,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2.00,5.00,4.00,4.00,3.00,2.00,5.00,1.00,4.00,4.00,4.00,1.00
+4/19/22,34.00,Female,Married,Salaried Worker,School,Yes,Facebook,More than 5 hours,5.00,5.00,4.00,5.00,3.00,1.00,3.00,3.00,3.00,2.00,5.00,4.00
+4/19/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram",Between 2 and 3 hours,5.00,5.00,5.00,5.00,5.00,5.00,3.00,1.00,1.00,3.00,3.00,5.00
+4/19/22,22.00,Female,Single,University Student,University,Yes,Facebook,More than 5 hours,5.00,4.00,5.00,4.00,5.00,4.00,3.00,3.00,4.00,3.00,3.00,4.00
+4/19/22,23.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5.00,5.00,5.00,5.00,5.00,4.00,5.00,5.00,4.00,5.00,4.00,5.00
+4/19/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4.00,5.00,3.00,4.00,3.00,5.00,2.00,3.00,3.00,4.00,4.00,5.00
+4/19/22,48.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram",Less than an Hour,2.00,4.00,1.00,3.00,2.00,1.00,1.00,3.00,2.00,1.00,1.00,1.00
+4/19/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,4.00,3.00,1.00,2.00,4.00,2.00,4.00,2.00,1.00,3.00,3.00,3.00
+4/19/22,20.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4.00,5.00,5.00,5.00,2.00,5.00,2.00,3.00,1.00,5.00,4.00,3.00
+4/19/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,5.00,4.00,5.00,5.00,5.00,3.00,1.00,1.00,4.00,2.00,2.00
+4/19/22,22.00,Female,Single,University Student,"University, N/A",Yes,Instagram,More than 5 hours,5.00,5.00,3.00,3.00,2.00,3.00,4.00,5.00,4.00,1.00,4.00,1.00
+4/19/22,20.00,Female,Single,University Student,Goverment,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,4.00,3.00,5.00,4.00,3.00,2.00,2.00,2.00,4.00,5.00,3.00
+4/19/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,1.00,1.00,3.00,3.00,4.00,4.00,3.00,3.00,2.00,4.00,4.00,4.00
+4/19/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,3.00,2.00,4.00,3.00,5.00,3.00,5.00,1.00,4.00,4.00,2.00,5.00
+4/19/22,20.00,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5.00,2.00,1.00,2.00,1.00,1.00,5.00,1.00,1.00,4.00,5.00,3.00
+4/19/22,16.00,Male,Single,School Student,School,Yes,"Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3.00,1.00,2.00,3.00,3.00,2.00,2.00,4.00,1.00,3.00,3.00,2.00
+4/19/22,50.00,Female,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2.00,1.00,1.00,3.00,3.00,2.00,1.00,4.00,3.00,1.00,1.00,4.00
+4/19/22,47.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,4.00,2.00,2.00,3.00,2.00,1.00,4.00,2.00,3.00,3.00,2.00,2.00
+4/19/22,24.00,Male,Single,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3.00,3.00,2.00,3.00,4.00,3.00,2.00,4.00,2.00,3.00,1.00,4.00
+4/19/22,38.00,Female,Married,Salaried Worker,School,Yes,Facebook,Less than an Hour,3.00,2.00,3.00,2.00,2.00,1.00,3.00,1.00,1.00,2.00,1.00,1.00
+4/19/22,50.00,Male,Divorced,Salaried Worker,Private,No,"Instagram, YouTube",Between 1 and 2 hours,2.00,1.00,1.00,2.00,2.00,2.00,1.00,4.00,1.00,2.00,2.00,1.00
+4/19/22,49.00,Male,Married,Retired,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,5.00,5.00,3.00,3.00,4.00,3.00,3.00,3.00,3.00,4.00,4.00,5.00
+4/19/22,47.00,Female,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3.00,3.00,3.00,3.00,3.00,2.00,1.00,3.00,1.00,1.00,1.00,4.00
+4/19/22,48.00,Female,Married,Salaried Worker,"Company, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3.00,3.00,1.00,3.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+4/19/22,51.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4.00,3.00,2.00,3.00,3.00,4.00,3.00,3.00,3.00,3.00,3.00,3.00
+4/19/22,50.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4.00,3.00,4.00,5.00,5.00,4.00,3.00,4.00,3.00,4.00,4.00,2.00
+4/19/22,47.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3.00,2.00,2.00,2.00,2.00,2.00,3.00,4.00,1.00,1.00,2.00,1.00
+4/19/22,27.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4.00,5.00,2.00,5.00,5.00,5.00,5.00,2.00,3.00,3.00,5.00,4.00
+4/19/22,40.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4.00,2.00,1.00,2.00,4.00,3.00,3.00,3.00,3.00,4.00,3.00,1.00
+4/19/22,46.00,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",Less than an Hour,3.00,1.00,1.00,1.00,2.00,1.00,1.00,3.00,5.00,2.00,2.00,2.00
+4/19/22,21.00,Female,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4.00,3.00,4.00,3.00,3.00,2.00,5.00,2.00,3.00,5.00,5.00,5.00
+4/19/22,47.00,Female,Married,Salaried Worker,Private,Yes,Facebook,Between 1 and 2 hours,4.00,4.00,3.00,3.00,2.00,2.00,4.00,2.00,3.00,3.00,3.00,3.00
+4/19/22,20.00,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4.00,4.00,3.00,4.00,4.00,4.00,5.00,1.00,4.00,4.00,3.00,4.00
+4/19/22,47.00,Female,Married,Salaried Worker,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3.00,4.00,3.00,4.00,5.00,4.00,2.00,2.00,1.00,2.00,3.00,2.00
+4/19/22,48.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,3.00,3.00,3.00,3.00,2.00,2.00,3.00,3.00,3.00,2.00,3.00,2.00
+4/19/22,49.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, YouTube",Between 4 and 5 hours,4.00,3.00,2.00,2.00,2.00,2.00,2.00,4.00,2.00,2.00,2.00,4.00
+4/19/22,21.00,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, YouTube, Discord",Between 3 and 4 hours,3.00,2.00,1.00,1.00,2.00,2.00,2.00,4.00,3.00,2.00,2.00,2.00
+4/19/22,32.00,Female,Married,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 4 and 5 hours,5.00,2.00,4.00,3.00,2.00,1.00,1.00,5.00,1.00,1.00,2.00,5.00
+4/19/22,47.00,Female,Married,Salaried Worker,University,Yes,"Twitter, Instagram, YouTube",Between 2 and 3 hours,3.00,1.00,2.00,3.00,2.00,2.00,3.00,3.00,2.00,2.00,2.00,3.00
+4/19/22,50.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, YouTube",Between 1 and 2 hours,1.00,1.00,2.00,3.00,2.00,2.00,1.00,1.00,3.00,3.00,2.00,2.00
+4/20/22,48.00,Male,Divorced,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Less than an Hour,5.00,1.00,1.00,2.00,4.00,2.00,1.00,3.00,3.00,4.00,2.00,5.00
+4/20/22,21.00,Female,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,2.00,2.00,1.00,5.00,4.00,5.00,3.00,3.00,2.00,3.00,5.00,4.00
+4/20/22,47.00,Male,Married,Salaried Worker,Company,Yes,Twitter,Less than an Hour,1.00,1.00,2.00,5.00,3.00,4.00,2.00,3.00,1.00,2.00,4.00,4.00
+4/20/22,36.00,Female,Married,Salaried Worker,School,Yes,YouTube,Between 2 and 3 hours,3.00,2.00,1.00,2.00,4.00,4.00,1.00,1.00,1.00,1.00,1.00,4.00
+4/20/22,37.00,Female,Married,Retired,Private,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3.00,1.00,2.00,2.00,1.00,3.00,1.00,2.00,2.00,4.00,2.00,4.00
+4/20/22,19.00,Female,In a relationship,School Student,School,Yes,Facebook,Between 4 and 5 hours,5.00,4.00,4.00,3.00,5.00,4.00,2.00,5.00,4.00,4.00,5.00,5.00
+4/20/22,30.00,Male,In a relationship,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4.00,2.00,1.00,2.00,2.00,1.00,4.00,2.00,2.00,2.00,2.00,5.00
+4/20/22,48.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,3.00,1.00,1.00,1.00,1.00,1.00,5.00,3.00,2.00,1.00,5.00,2.00
+4/20/22,48.00,Female,Married,Retired,N/A,Yes,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4.00,5.00,5.00,5.00,4.00,5.00,3.00,3.00,2.00,3.00,5.00,4.00
+4/20/22,48.00,Male,Married,Salaried Worker,Company,Yes,"Twitter, YouTube",Between 3 and 4 hours,3.00,2.00,3.00,3.00,4.00,3.00,2.00,3.00,2.00,3.00,3.00,4.00
+4/20/22,47.00,Male,Married,Salaried Worker,"University, Company",Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,3.00,2.00,3.00,5.00,5.00,5.00,2.00,5.00,2.00,3.00,2.00,4.00
+4/20/22,47.00,Female,Married,Salaried Worker,Company,Yes,"Facebook, Twitter",Less than an Hour,2.00,2.00,2.00,3.00,2.00,2.00,4.00,3.00,2.00,2.00,2.00,2.00
+4/20/22,48.00,Male,Married,Salaried Worker,N/A,Yes,"Facebook, YouTube, Pinterest",Less than an Hour,5.00,1.00,1.00,2.00,2.00,1.00,1.00,1.00,1.00,2.00,1.00,4.00
+4/20/22,21.00,Male,Single,University Student,"School, University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2.00,4.00,2.00,3.00,2.00,1.00,3.00,5.00,3.00,2.00,1.00,4.00
+4/20/22,48.00,Male,Married,Salaried Worker,Private,Yes,"Twitter, YouTube",Between 1 and 2 hours,2.00,2.00,1.00,2.00,1.00,1.00,2.00,3.00,1.00,1.00,2.00,2.00
+4/20/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,2.00,3.00,2.00,4.00,3.00,3.00,2.00,3.00,1.00,2.00,2.00,1.00
+4/20/22,20.00,Male,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,5.00,5.00,5.00,4.00,2.00,4.00,3.00,3.00,1.00,3.00,3.00,4.00
+4/20/22,20.00,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,4.00,5.00,4.00,4.00,5.00,5.00,5.00,2.00,2.00,3.00,4.00,4.00
+4/20/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,5.00,5.00,2.00,3.00,4.00,5.00,3.00,2.00,4.00,5.00,5.00,5.00
+4/20/22,21.00,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4.00,4.00,4.00,4.00,4.00,2.00,4.00,3.00,4.00,3.00,3.00,1.00
+4/20/22,20.00,Female,In a relationship,University Student,University,Yes,"Instagram, YouTube, Pinterest",Between 4 and 5 hours,4.00,3.00,5.00,5.00,4.00,4.00,5.00,4.00,3.00,4.00,4.00,5.00
+4/20/22,47.00,Male,Married,Salaried Worker,Company,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4.00,3.00,3.00,2.00,4.00,3.00,1.00,2.00,1.00,1.00,2.00,1.00
+4/20/22,35.00,Female,Divorced,Salaried Worker,School,Yes,"Facebook, YouTube",Less than an Hour,3.00,2.00,1.00,1.00,1.00,1.00,1.00,3.00,4.00,1.00,1.00,1.00
+4/20/22,23.00,Female,Single,University Student,University,Yes,Pinterest,Between 3 and 4 hours,5.00,3.00,3.00,4.00,3.00,5.00,1.00,3.00,3.00,4.00,3.00,5.00
+4/20/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,3.00,5.00,4.00,5.00,5.00,4.00,3.00,2.00,1.00,3.00,5.00,5.00
+4/20/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3.00,2.00,5.00,2.00,4.00,1.00,3.00,2.00,4.00,4.00,2.00,1.00
+4/20/22,37.00,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,5.00,4.00,4.00,3.00,5.00,2.00,5.00,2.00,2.00,4.00,4.00,5.00
+4/20/22,48.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4.00,2.00,2.00,3.00,2.00,2.00,2.00,3.00,3.00,3.00,3.00,4.00
+4/20/22,47.00,Male,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube, TikTok",Less than an Hour,3.00,1.00,1.00,2.00,4.00,2.00,3.00,3.00,2.00,1.00,2.00,3.00
+4/20/22,25.00,Female,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3.00,4.00,5.00,4.00,5.00,4.00,2.00,4.00,4.00,5.00,3.00,2.00
+4/20/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5.00,5.00,4.00,5.00,4.00,3.00,2.00,3.00,3.00,3.00,4.00,4.00
+4/20/22,45.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 2 and 3 hours,3.00,2.00,3.00,3.00,3.00,3.00,3.00,2.00,2.00,2.00,2.00,2.00
+4/20/22,47.00,Male,Married,Salaried Worker,"Company, Private",Yes,"Instagram, YouTube",Between 1 and 2 hours,4.00,3.00,2.00,4.00,3.00,2.00,2.00,3.00,3.00,3.00,2.00,1.00
+4/20/22,47.00,Female,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,4.00,5.00,2.00,3.00,3.00,1.00,3.00,3.00,1.00,3.00,3.00,1.00
+4/20/22,24.00,Female,Married,University Student,Private,Yes,"Facebook, Instagram, Pinterest",More than 5 hours,5.00,3.00,4.00,3.00,4.00,5.00,3.00,3.00,3.00,4.00,3.00,4.00
+4/20/22,21.00,Female,In a relationship,University Student,University,Yes,Instagram,Between 2 and 3 hours,5.00,5.00,5.00,5.00,1.00,5.00,2.00,5.00,5.00,2.00,5.00,5.00
+4/20/22,22.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Reddit, Pinterest",Between 2 and 3 hours,3.00,2.00,2.00,2.00,2.00,2.00,1.00,3.00,3.00,4.00,2.00,1.00
+4/20/22,19.00,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,3.00,4.00,3.00,3.00,3.00,3.00,3.00,5.00,3.00,4.00,3.00,1.00
+4/20/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3.00,3.00,2.00,4.00,2.00,4.00,3.00,2.00,1.00,4.00,4.00,4.00
+4/20/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5.00,3.00,3.00,3.00,5.00,3.00,2.00,3.00,4.00,5.00,3.00,4.00
+4/20/22,20.00,Male,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4.00,5.00,4.00,4.00,5.00,4.00,1.00,3.00,4.00,4.00,5.00,5.00
+4/20/22,42.00,Female,Married,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3.00,1.00,1.00,1.00,1.00,1.00,1.00,3.00,1.00,1.00,3.00,1.00
+4/20/22,35.00,Female,Married,Salaried Worker,School,Yes,Facebook,Between 2 and 3 hours,5.00,3.00,2.00,2.00,1.00,3.00,2.00,4.00,1.00,3.00,2.00,2.00
+4/20/22,38.00,Male,Married,Salaried Worker,University,Yes,"Facebook, Twitter, YouTube, Discord, Reddit",Between 4 and 5 hours,3.00,3.00,3.00,2.00,3.00,2.00,3.00,4.00,3.00,2.00,2.00,2.00
+4/20/22,17.00,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube",Less than an Hour,2.00,2.00,2.00,2.00,2.00,1.00,1.00,2.00,1.00,1.00,1.00,2.00
+4/20/22,32.00,Male,Married,Salaried Worker,"Company, Private",Yes,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3.00,1.00,3.00,2.00,2.00,1.00,1.00,3.00,1.00,1.00,2.00,1.00
+4/21/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,3.00,3.00,2.00,5.00,4.00,5.00,4.00,2.00,2.00,2.00,3.00,2.00
+4/21/22,22.00,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4.00,2.00,2.00,2.00,4.00,3.00,2.00,4.00,2.00,3.00,2.00,5.00
+4/21/22,27.00,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5.00,5.00,3.00,3.00,3.00,3.00,1.00,3.00,1.00,3.00,3.00,4.00
+4/21/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,4.00,5.00,3.00,5.00,5.00,5.00,5.00,2.00,4.00,3.00,5.00,3.00
+4/21/22,27.00,Male,Married,Salaried Worker,"University, Company",Yes,"Facebook, Discord, Reddit",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,1.00,3.00,1.00,5.00,5.00,5.00
+4/21/22,20.00,Male,Single,School Student,School,Yes,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,3.00,2.00,3.00,2.00,3.00,2.00,3.00,2.00,3.00,2.00,1.00,4.00
+4/21/22,27.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,4.00,4.00,4.00,5.00,4.00,3.00,2.00,2.00,1.00,1.00,3.00,2.00
+4/21/22,24.00,Male,Single,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5.00,5.00,5.00,5.00,1.00,5.00,5.00,4.00,1.00,5.00,5.00,4.00
+4/21/22,26.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3.00,2.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+4/21/22,20.00,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2.00,1.00,1.00,2.00,5.00,3.00,5.00,4.00,3.00,4.00,3.00,4.00
+4/21/22,31.00,Male,Single,Salaried Worker,School,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,3.00,3.00,3.00,3.00,4.00,3.00,4.00,4.00,4.00,3.00,3.00,2.00
+4/21/22,21.00,Male,Single,University Student,University,Yes,"YouTube, Discord, Reddit",More than 5 hours,5.00,1.00,1.00,1.00,1.00,1.00,1.00,3.00,1.00,1.00,1.00,1.00
+4/21/22,34.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube, TikTok",More than 5 hours,5.00,3.00,2.00,3.00,3.00,4.00,4.00,4.00,5.00,5.00,5.00,5.00
+4/21/22,22.00,Male,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat",Less than an Hour,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+4/21/22,20.00,Female,In a relationship,University Student,N/A,Yes,Instagram,More than 5 hours,3.00,3.00,1.00,3.00,5.00,3.00,2.00,3.00,5.00,4.00,5.00,1.00
+4/21/22,23.00,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4.00,2.00,1.00,1.00,3.00,1.00,1.00,3.00,1.00,3.00,2.00,1.00
+4/21/22,48.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Less than an Hour,1.00,1.00,1.00,1.00,1.00,1.00,5.00,5.00,3.00,1.00,1.00,1.00
+4/21/22,37.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,4.00,4.00,1.00,3.00,4.00,4.00,4.00,4.00,3.00,2.00,3.00,2.00
+4/21/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,3.00,3.00,2.00,3.00,4.00,4.00,4.00,4.00,3.00,5.00,4.00,4.00
+4/21/22,50.00,Male,Single,Salaried Worker,N/A,Yes,Facebook,Between 1 and 2 hours,3.00,2.00,3.00,3.00,3.00,5.00,4.00,5.00,5.00,2.00,4.00,3.00
+4/21/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4.00,4.00,4.00,5.00,5.00,5.00,4.00,2.00,3.00,3.00,4.00,4.00
+4/21/22,23.00,Female,Single,University Student,"University, Goverment",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 2 and 3 hours,4.00,4.00,1.00,3.00,2.00,2.00,1.00,2.00,1.00,2.00,4.00,1.00
+4/21/22,21.00,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,4.00,3.00,1.00,3.00,4.00,3.00,5.00,2.00,3.00,3.00,4.00,3.00
+4/21/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,3.00,3.00,3.00,3.00,3.00,2.00,2.00,3.00,3.00,3.00,3.00,3.00
+4/21/22,22.00,Female,In a relationship,University Student,University,Yes,Facebook,More than 5 hours,3.00,1.00,4.00,4.00,3.00,4.00,3.00,4.00,3.00,4.00,4.00,3.00
+4/21/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,2.00,5.00,3.00,3.00,3.00,4.00,5.00,3.00,3.00,2.00,4.00,3.00
+4/21/22,19.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,5.00,4.00,5.00,3.00,5.00,4.00,5.00,1.00,5.00,4.00,4.00,3.00
+4/22/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,5.00,5.00,3.00,5.00,3.00,5.00,1.00,3.00,2.00,2.00,2.00,5.00
+4/22/22,46.00,Male,Married,Salaried Worker,"Company, Private",Yes,"Facebook, YouTube",Less than an Hour,2.00,1.00,1.00,1.00,1.00,1.00,1.00,2.00,1.00,1.00,3.00,4.00
+4/22/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,4.00,5.00,3.00,4.00,4.00,4.00,3.00,3.00,4.00,4.00,4.00,5.00
+4/22/22,24.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2.00,3.00,1.00,2.00,4.00,3.00,4.00,4.00,3.00,4.00,1.00,1.00
+4/22/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Less than an Hour,3.00,1.00,1.00,1.00,2.00,2.00,5.00,1.00,2.00,1.00,3.00,1.00
+4/22/22,25.00,Male,Single,University Student,University,Yes,YouTube,Between 1 and 2 hours,5.00,5.00,1.00,1.00,2.00,3.00,4.00,5.00,3.00,5.00,2.00,5.00
+4/22/22,21.00,Female,Single,University Student,"University, Company, Goverment",Yes,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,2.00,1.00,1.00,2.00,2.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+4/24/22,23.00,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,4.00,4.00,3.00,5.00,4.00,4.00,4.00,2.00,1.00,4.00,4.00,3.00
+4/26/22,22.00,Female,In a relationship,Salaried Worker,Company,Yes,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,5.00,4.00,4.00,4.00,4.00,3.00,4.00,4.00,4.00,4.00,5.00,1.00
+4/26/22,36.00,Male,Married,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Less than an Hour,2.00,1.00,1.00,2.00,3.00,1.00,3.00,3.00,1.00,2.00,1.00,1.00
+4/26/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,5.00,5.00,3.00,5.00,5.00,2.00,3.00,1.00,2.00,5.00,3.00,5.00
+4/26/22,69.00,Trans,Divorced,Salaried Worker,N/A,Yes,TikTok,More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+4/26/22,25.00,Female,Single,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3.00,4.00,2.00,5.00,5.00,1.00,5.00,1.00,5.00,4.00,5.00,5.00
+4/26/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,4.00,2.00,1.00,5.00,4.00,3.00,5.00,1.00,4.00,4.00,4.00,2.00
+4/26/22,23.00,Male,Single,University Student,"University, N/A",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,3.00,4.00,2.00,5.00,5.00,5.00,5.00,4.00,4.00,2.00,3.00,4.00
+4/27/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Instagram",Less than an Hour,3.00,2.00,1.00,3.00,4.00,3.00,3.00,3.00,2.00,3.00,2.00,5.00
+5/11/22,19.00,Female,Single,School Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5.00,3.00,2.00,3.00,5.00,5.00,2.00,3.00,3.00,3.00,5.00,5.00
+5/11/22,21.00,Female,Single,University Student,"School, University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 1 and 2 hours,3.00,5.00,2.00,4.00,2.00,2.00,1.00,4.00,2.00,3.00,2.00,3.00
+5/11/22,27.00,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,5.00,5.00,3.00,4.00,4.00,4.00,4.00,2.00,3.00,4.00,4.00,2.00
+5/11/22,25.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord",More than 5 hours,4.00,3.00,1.00,2.00,4.00,3.00,4.00,2.00,2.00,4.00,2.00,1.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4.00,2.00,1.00,3.00,4.00,1.00,1.00,5.00,1.00,2.00,2.00,3.00
+5/11/22,34.00,Female,Married,Salaried Worker,School,Yes,Facebook,Between 1 and 2 hours,2.00,5.00,1.00,1.00,1.00,5.00,2.00,3.00,5.00,1.00,2.00,1.00
+5/11/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,5.00,5.00,3.00,3.00,5.00,3.00,3.00,4.00,3.00,4.00,5.00,4.00
+5/11/22,34.00,Female,Married,Salaried Worker,School,Yes,Facebook,Between 1 and 2 hours,2.00,2.00,1.00,1.00,1.00,1.00,2.00,1.00,1.00,1.00,1.00,1.00
+5/11/22,26.00,Female,Single,Salaried Worker,N/A,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",Between 4 and 5 hours,5.00,5.00,3.00,5.00,5.00,5.00,3.00,3.00,3.00,5.00,4.00,4.00
+5/11/22,25.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4.00,5.00,2.00,5.00,1.00,5.00,2.00,3.00,4.00,5.00,1.00,5.00
+5/11/22,22.00,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5.00,4.00,2.00,3.00,3.00,2.00,1.00,3.00,2.00,2.00,3.00,3.00
+5/11/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,4.00,2.00,1.00,3.00,5.00,2.00,1.00,4.00,2.00,2.00,4.00,2.00
+5/11/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,5.00,3.00,4.00,5.00,5.00,5.00,1.00,3.00,3.00,4.00,5.00
+5/11/22,91.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2.00,5.00,4.00,4.00,5.00,5.00,5.00,1.00,5.00,5.00,5.00,5.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4.00,1.00,2.00,1.00,1.00,1.00,1.00,2.00,1.00,1.00,2.00,3.00
+5/11/22,23.00,Female,Single,University Student,"University, N/A",Yes,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,3.00,3.00,2.00,3.00,3.00,4.00,3.00,3.00,4.00,4.00,3.00,2.00
+5/11/22,21.00,Female,In a relationship,University Student,"University, Company",Yes,"Facebook, Instagram, Discord",Between 2 and 3 hours,2.00,3.00,4.00,2.00,3.00,4.00,2.00,4.00,2.00,3.00,1.00,4.00
+5/11/22,36.00,Female,Married,Salaried Worker,N/A,Yes,"Facebook, YouTube, Snapchat",Between 1 and 2 hours,4.00,1.00,1.00,2.00,2.00,1.00,1.00,3.00,2.00,2.00,3.00,3.00
+5/11/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,3.00,3.00,2.00,3.00,5.00,4.00,3.00,3.00,3.00,5.00,5.00,4.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,2.00,2.00,2.00,2.00,2.00,3.00,4.00,3.00,3.00,3.00,2.00,2.00
+5/11/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,4.00,4.00,3.00,4.00,2.00,4.00,4.00,3.00,4.00,3.00,4.00,3.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5.00,2.00,5.00,4.00,4.00,4.00,4.00,3.00,2.00,2.00,3.00,2.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,3.00,3.00,3.00,3.00,4.00,3.00,4.00,3.00,3.00,3.00,3.00,2.00
+5/11/22,26.00,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",More than 5 hours,4.00,4.00,1.00,3.00,3.00,2.00,2.00,4.00,1.00,2.00,2.00,4.00
+5/11/22,21.00,Male,Single,University Student,University,Yes,YouTube,Between 2 and 3 hours,3.00,3.00,2.00,5.00,5.00,4.00,2.00,3.00,2.00,4.00,2.00,4.00
+5/11/22,20.00,Female,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,4.00,5.00,3.00,5.00,5.00,5.00,2.00,3.00,1.00,3.00,4.00,5.00
+5/11/22,21.00,Female,In a relationship,University Student,"School, University, Private",Yes,"Facebook, Twitter, YouTube, Discord, Pinterest",More than 5 hours,3.00,2.00,1.00,2.00,3.00,1.00,1.00,3.00,1.00,3.00,3.00,2.00
+5/11/22,19.00,Female,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3.00,2.00,1.00,5.00,2.00,3.00,1.00,3.00,1.00,2.00,1.00,5.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4.00,5.00,5.00,5.00,5.00,5.00,5.00,1.00,4.00,5.00,5.00,5.00
+5/11/22,22.00,Female,Single,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5.00,4.00,3.00,4.00,4.00,3.00,2.00,3.00,4.00,3.00,3.00,4.00
+5/11/22,23.00,Male,Single,University Student,"School, University",Yes,"YouTube, Discord, Reddit",Between 1 and 2 hours,2.00,2.00,1.00,5.00,5.00,5.00,1.00,3.00,1.00,5.00,1.00,5.00
+5/11/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4.00,4.00,4.00,5.00,5.00,4.00,4.00,2.00,3.00,3.00,4.00,3.00
+5/11/22,21.00,Female,In a relationship,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,5.00,4.00,2.00,5.00,5.00,4.00,4.00,3.00,3.00,5.00,5.00,5.00
+5/11/22,22.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,5.00,5.00,3.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+5/11/22,26.00,Male,Single,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,1.00,5.00,5.00,5.00
+5/11/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,4.00,4.00,2.00,3.00,5.00,3.00,1.00,3.00,4.00,5.00,2.00,2.00
+5/11/22,17.00,Male,Single,School Student,School,Yes,Discord,Between 2 and 3 hours,3.00,4.00,3.00,3.00,3.00,3.00,5.00,3.00,4.00,5.00,3.00,4.00
+5/11/22,23.00,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,4.00,3.00,3.00,4.00,5.00,4.00,5.00,4.00,4.00,3.00,4.00,5.00
+5/11/22,21.00,Male,Single,School Student,"School, Company",Yes,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,2.00,4.00,2.00,4.00,5.00,4.00,5.00,4.00,4.00,4.00,3.00,3.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,1.00,1.00,1.00,1.00,1.00,1.00,2.00,2.00,1.00,2.00,1.00,2.00
+5/11/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4.00,5.00,3.00,2.00,5.00,3.00,4.00,2.00,1.00,5.00,4.00,5.00
+5/11/22,24.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 4 and 5 hours,4.00,4.00,3.00,4.00,4.00,4.00,3.00,3.00,3.00,4.00,4.00,4.00
+5/11/22,22.00,Female,Single,University Student,Private,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4.00,4.00,2.00,5.00,4.00,5.00,3.00,2.00,2.00,3.00,4.00,4.00
+5/11/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord",Between 3 and 4 hours,4.00,3.00,2.00,3.00,2.00,3.00,2.00,1.00,3.00,2.00,3.00,2.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3.00,4.00,4.00,5.00,5.00,4.00,5.00,2.00,4.00,5.00,4.00,4.00
+5/11/22,26.00,Male,In a relationship,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 4 and 5 hours,3.00,3.00,2.00,2.00,4.00,2.00,2.00,3.00,4.00,4.00,2.00,2.00
+5/11/22,24.00,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,2.00,1.00,1.00,2.00,4.00,2.00,1.00,1.00,3.00,3.00,2.00,4.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,3.00,4.00,1.00,2.00,2.00,3.00,3.00,3.00,3.00,3.00,4.00,4.00
+5/11/22,25.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3.00,2.00,1.00,2.00,4.00,3.00,3.00,3.00,2.00,4.00,2.00,3.00
+5/11/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4.00,5.00,3.00,4.00,4.00,5.00,2.00,3.00,3.00,4.00,5.00,4.00
+5/11/22,20.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,4.00,4.00,4.00,4.00,4.00,4.00,5.00,5.00,4.00,5.00,5.00,5.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3.00,3.00,1.00,3.00,1.00,1.00,1.00,3.00,5.00,1.00,1.00,1.00
+5/11/22,25.00,Female,In a relationship,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2.00,1.00,3.00,2.00,4.00,4.00,3.00,3.00,1.00,2.00,1.00,1.00
+5/11/22,17.00,Male,Single,School Student,School,Yes,"Facebook, Discord",Between 4 and 5 hours,2.00,1.00,4.00,2.00,5.00,2.00,4.00,3.00,1.00,4.00,2.00,2.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4.00,2.00,3.00,3.00,5.00,4.00,4.00,3.00,3.00,4.00,3.00,5.00
+5/11/22,26.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 1 and 2 hours,3.00,4.00,2.00,4.00,4.00,4.00,2.00,2.00,1.00,3.00,3.00,2.00
+5/11/22,22.00,Female,Single,University Student,"University, Goverment",Yes,Facebook,Between 2 and 3 hours,2.00,3.00,2.00,3.00,3.00,3.00,4.00,3.00,3.00,5.00,3.00,3.00
+5/11/22,23.00,Male,In a relationship,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3.00,4.00,5.00,3.00,5.00,3.00,3.00,3.00,3.00,5.00,1.00,4.00
+5/11/22,25.00,Male,Single,Salaried Worker,"Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4.00,2.00,2.00,3.00,5.00,4.00,1.00,1.00,2.00,5.00,5.00,5.00
+5/11/22,21.00,Male,Single,School Student,"University, Company",Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4.00,5.00,3.00,5.00,2.00,5.00,2.00,3.00,4.00,4.00,5.00,2.00
+5/11/22,30.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, TikTok",Between 2 and 3 hours,4.00,5.00,4.00,3.00,3.00,5.00,4.00,3.00,1.00,4.00,4.00,5.00
+5/11/22,23.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2.00,4.00,1.00,3.00,4.00,3.00,4.00,2.00,2.00,3.00,3.00,2.00
+5/11/22,22.00,Male,In a relationship,Salaried Worker,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4.00,5.00,4.00,5.00,5.00,4.00,3.00,3.00,3.00,3.00,4.00,2.00
+5/11/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5.00,5.00,5.00,4.00,4.00,3.00,5.00,2.00,2.00,5.00,4.00,3.00
+5/11/22,20.00,Female,In a relationship,University Student,University,Yes,"Facebook, YouTube",Between 3 and 4 hours,5.00,3.00,2.00,4.00,2.00,2.00,1.00,3.00,5.00,1.00,4.00,1.00
+5/11/22,18.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3.00,2.00,2.00,2.00,4.00,2.00,1.00,3.00,3.00,2.00,3.00,4.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube",Between 3 and 4 hours,3.00,3.00,2.00,2.00,4.00,2.00,2.00,3.00,2.00,2.00,3.00,1.00
+5/11/22,15.00,Female,Single,School Student,School,Yes,"Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,4.00,3.00,1.00,3.00,5.00,3.00,3.00,3.00,1.00,5.00,4.00,5.00
+5/11/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5.00,3.00,2.00,3.00,5.00,5.00,1.00,3.00,1.00,3.00,4.00,5.00
+5/11/22,17.00,Female,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2.00,5.00,4.00,5.00,3.00,5.00,2.00,2.00,3.00,2.00,4.00,2.00
+5/11/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram",Between 1 and 2 hours,2.00,3.00,1.00,4.00,5.00,4.00,3.00,3.00,1.00,5.00,5.00,5.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,5.00,1.00,4.00,1.00,4.00,4.00,3.00,4.00,2.00,4.00,5.00,4.00
+5/11/22,23.00,Female,Married,University Student,University,Yes,Facebook,More than 5 hours,4.00,3.00,3.00,4.00,4.00,5.00,4.00,4.00,3.00,3.00,3.00,4.00
+5/11/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,2.00,1.00,1.00,1.00,4.00,1.00,1.00,3.00,1.00,3.00,1.00,3.00
+5/11/22,21.00,Female,In a relationship,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,5.00,4.00,5.00,3.00,5.00,3.00,3.00,2.00,5.00,5.00,4.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,1.00,4.00,5.00,5.00,5.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Snapchat, Discord",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+5/11/22,21.00,Female,Single,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,3.00,4.00,5.00,4.00,5.00,4.00,5.00,5.00,3.00,5.00,4.00,5.00
+5/11/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3.00,3.00,2.00,2.00,4.00,4.00,4.00,3.00,3.00,4.00,2.00,4.00
+5/11/22,18.00,Male,Single,School Student,N/A,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",More than 5 hours,5.00,4.00,1.00,2.00,4.00,3.00,1.00,3.00,3.00,3.00,3.00,5.00
+5/11/22,19.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,3.00,2.00,1.00,2.00,4.00,2.00,2.00,3.00,4.00,2.00,2.00,5.00
+5/11/22,22.00,Male,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5.00,4.00,2.00,4.00,5.00,5.00,1.00,1.00,1.00,5.00,1.00,5.00
+5/11/22,21.00,Non binary ,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4.00,2.00,3.00,5.00,5.00,4.00,4.00,3.00,5.00,5.00,5.00,1.00
+5/11/22,21.00,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5.00,5.00,4.00,5.00,5.00,4.00,5.00,5.00,3.00,5.00,3.00,5.00
+5/11/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4.00,5.00,4.00,4.00,5.00,5.00,2.00,2.00,5.00,5.00,5.00,4.00
+5/11/22,21.00,Female,Single,University Student,"University, Company",Yes,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,4.00,4.00,1.00,3.00,2.00,2.00,2.00,2.00,2.00,4.00,3.00,2.00
+5/11/22,23.00,Male,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,5.00,4.00,3.00,5.00,4.00,5.00,3.00,2.00,2.00,4.00,4.00,4.00
+5/11/22,19.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4.00,2.00,2.00,2.00,3.00,1.00,2.00,5.00,1.00,1.00,3.00,4.00
+5/11/22,26.00,Male,Single,Salaried Worker,"School, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4.00,3.00,2.00,4.00,3.00,3.00,4.00,3.00,1.00,4.00,2.00,2.00
+5/11/22,27.00,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 2 and 3 hours,5.00,5.00,2.00,2.00,1.00,1.00,2.00,4.00,1.00,3.00,2.00,3.00
+5/11/22,25.00,Female,Single,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,5.00,5.00,4.00,4.00,5.00,1.00,2.00,2.00,3.00,5.00,2.00,4.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00
+5/11/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4.00,2.00,4.00,3.00,5.00,4.00,1.00,3.00,2.00,4.00,4.00,2.00
+5/11/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,4.00,4.00,1.00,3.00,3.00,1.00,1.00,1.00,1.00,1.00,2.00,2.00
+5/11/22,18.00,Female,Single,School Student,Private,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5.00,5.00,2.00,5.00,4.00,5.00,5.00,2.00,4.00,4.00,5.00,5.00
+5/11/22,22.00,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4.00,3.00,2.00,3.00,4.00,3.00,2.00,4.00,1.00,3.00,1.00,3.00
+5/11/22,20.00,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, Snapchat, Reddit",Between 1 and 2 hours,3.00,3.00,2.00,3.00,5.00,3.00,1.00,3.00,4.00,5.00,3.00,2.00
+5/11/22,24.00,Male,Single,Salaried Worker,Company,Yes,"YouTube, Discord",More than 5 hours,5.00,3.00,5.00,5.00,4.00,5.00,1.00,3.00,1.00,3.00,5.00,1.00
+5/11/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3.00,4.00,3.00,3.00,5.00,5.00,4.00,4.00,4.00,3.00,4.00,3.00
+5/11/22,29.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram",Between 3 and 4 hours,5.00,3.00,1.00,3.00,5.00,3.00,2.00,2.00,1.00,5.00,5.00,5.00
+5/11/22,21.00,Male,Single,University Student,"University, Company, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,4.00,4.00,3.00,3.00,5.00,2.00,4.00,2.00,2.00,2.00,4.00,5.00
+5/11/22,19.00,Female,Single,University Student,"School, University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3.00,5.00,4.00,3.00,5.00,4.00,1.00,5.00,1.00,5.00,5.00,5.00
+5/11/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,5.00,4.00,3.00,4.00,4.00,4.00,2.00,3.00,1.00,5.00,4.00,2.00
+5/11/22,43.00,Male,Married,Salaried Worker,Goverment,Yes,"Facebook, YouTube",Less than an Hour,2.00,1.00,1.00,1.00,1.00,1.00,1.00,3.00,3.00,1.00,1.00,1.00
+5/11/22,22.00,Female,Married,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5.00,5.00,3.00,4.00,4.00,4.00,4.00,1.00,1.00,4.00,2.00,1.00
+5/11/22,24.00,Male,In a relationship,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4.00,5.00,3.00,5.00,5.00,5.00,1.00,3.00,1.00,3.00,2.00,1.00
+5/11/22,18.00,Female,Single,School Student,School,Yes,"Facebook, YouTube",More than 5 hours,5.00,5.00,3.00,3.00,5.00,4.00,1.00,3.00,1.00,5.00,4.00,4.00
+5/11/22,19.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4.00,3.00,1.00,3.00,4.00,4.00,2.00,3.00,1.00,4.00,3.00,5.00
+5/11/22,37.00,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,2.00,2.00,1.00,3.00,3.00,2.00,2.00,3.00,1.00,3.00,3.00,4.00
+5/11/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4.00,4.00,2.00,4.00,4.00,5.00,4.00,2.00,3.00,3.00,4.00,5.00
+5/11/22,29.00,Female,Single,Salaried Worker,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 1 and 2 hours,2.00,2.00,1.00,4.00,5.00,4.00,4.00,2.00,1.00,5.00,2.00,4.00
+5/11/22,19.00,Male,Single,School Student,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,3.00,3.00,2.00,2.00,3.00,2.00,2.00,1.00,3.00,2.00,2.00,2.00
+5/11/22,35.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Discord",Less than an Hour,2.00,3.00,2.00,2.00,4.00,4.00,2.00,2.00,4.00,3.00,2.00,5.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Twitter, Discord, Reddit",Between 2 and 3 hours,4.00,5.00,4.00,5.00,5.00,4.00,3.00,3.00,1.00,4.00,4.00,2.00
+5/11/22,23.00,Male,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 1 and 2 hours,3.00,2.00,2.00,3.00,2.00,2.00,2.00,4.00,2.00,3.00,2.00,3.00
+5/11/22,22.00,Female,Single,University Student,University,Yes,"Twitter, Instagram, TikTok",More than 5 hours,5.00,5.00,5.00,4.00,4.00,4.00,2.00,3.00,2.00,3.00,4.00,1.00
+5/12/22,25.00,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,4.00,4.00,1.00,5.00,5.00,3.00,5.00,2.00,2.00,4.00,3.00,5.00
+5/12/22,19.00,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,3.00,3.00,4.00,3.00,3.00,3.00,4.00,3.00,3.00,3.00,3.00,2.00
+5/12/22,29.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4.00,4.00,1.00,3.00,3.00,3.00,2.00,3.00,1.00,2.00,2.00,4.00
+5/12/22,21.00,Female,In a relationship,University Student,"University, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4.00,5.00,3.00,3.00,3.00,3.00,5.00,1.00,4.00,4.00,3.00,5.00
+5/12/22,21.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4.00,2.00,2.00,2.00,1.00,1.00,1.00,3.00,1.00,2.00,2.00,2.00
+5/12/22,22.00,Female,Married,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,3.00,2.00,1.00,1.00,1.00,3.00,1.00,1.00,2.00,1.00,2.00,2.00
+5/12/22,23.00,Female,Single,University Student,"University, Company",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5.00,4.00,2.00,4.00,5.00,5.00,5.00,1.00,4.00,5.00,2.00,5.00
+5/12/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4.00,5.00,4.00,5.00,3.00,5.00,4.00,3.00,2.00,4.00,4.00,4.00
+5/12/22,20.00,Male,Divorced,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+5/12/22,22.00,There are others???,In a relationship,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,5.00,5.00,5.00,1.00,3.00,3.00,4.00,2.00,1.00,2.00,1.00
+5/12/22,27.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,3.00,3.00,3.00,3.00,4.00,4.00,4.00,4.00,3.00,5.00,3.00,4.00
+5/12/22,24.00,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5.00,2.00,2.00,2.00,4.00,2.00,2.00,3.00,3.00,2.00,1.00,5.00
+5/12/22,21.00,Female,Married,University Student,"University, Company",Yes,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,5.00,5.00,2.00,4.00,5.00,5.00,5.00,1.00,5.00,4.00,5.00,5.00
+5/12/22,23.00,Female,Single,University Student,University,Yes,"YouTube, Pinterest",Less than an Hour,3.00,2.00,1.00,1.00,2.00,1.00,1.00,2.00,2.00,3.00,4.00,3.00
+5/12/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4.00,4.00,2.00,5.00,4.00,4.00,2.00,3.00,2.00,3.00,3.00,5.00
+5/12/22,23.00,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4.00,4.00,3.00,3.00,4.00,2.00,4.00,2.00,3.00,2.00,2.00,1.00
+5/12/22,24.00,Female,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3.00,2.00,2.00,3.00,5.00,3.00,5.00,2.00,3.00,5.00,5.00,4.00
+5/12/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3.00,2.00,2.00,3.00,4.00,3.00,1.00,3.00,2.00,5.00,2.00,4.00
+5/12/22,30.00,Female,Single,Salaried Worker,N/A,Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4.00,5.00,3.00,5.00,5.00,5.00,4.00,2.00,5.00,4.00,5.00,4.00
+5/12/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,3.00,4.00,2.00,2.00,5.00,4.00,5.00,5.00,5.00,5.00,2.00,2.00
+5/12/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4.00,3.00,3.00,3.00,2.00,2.00,3.00,3.00,1.00,1.00,3.00,2.00
+5/12/22,29.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5.00,5.00,3.00,5.00,4.00,5.00,5.00,3.00,3.00,5.00,5.00,5.00
+5/12/22,20.00,Male,Single,University Student,"School, University",Yes,"Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,4.00,3.00,2.00,3.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,1.00
+5/12/22,26.70,Female,Single,University Student,University,Yes,"Facebook, YouTube",More than 5 hours,4.00,2.00,2.00,3.00,5.00,3.00,5.00,2.00,3.00,4.00,5.00,5.00
+5/12/22,24.00,Male,Single,Salaried Worker,Company,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,3.00,4.00,1.00,3.00,3.00,2.00,3.00,3.00,4.00,5.00,3.00,3.00
+5/12/22,26.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4.00,5.00,3.00,4.00,4.00,4.00,5.00,1.00,2.00,3.00,4.00,3.00
+5/12/22,22.00,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord",Between 2 and 3 hours,5.00,4.00,2.00,3.00,3.00,4.00,3.00,4.00,1.00,2.00,2.00,4.00
+5/12/22,23.00,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,5.00,5.00,2.00,4.00,5.00,3.00,5.00,3.00,2.00,3.00,3.00,4.00
+5/12/22,19.00,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 4 and 5 hours,4.00,4.00,2.00,4.00,4.00,4.00,5.00,2.00,4.00,2.00,4.00,4.00
+5/12/22,21.00,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,3.00,4.00,3.00,4.00,4.00,4.00,5.00,1.00,2.00,4.00,4.00,2.00
+5/12/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5.00,5.00,5.00,5.00,5.00,5.00,2.00,3.00,2.00,4.00,4.00,5.00
+5/12/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4.00,4.00,4.00,4.00,2.00,3.00,2.00,3.00,4.00,3.00,3.00,4.00
+5/12/22,22.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,3.00,3.00,3.00,4.00,5.00,5.00,4.00,3.00,1.00,5.00,3.00,3.00
+5/12/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5.00,4.00,4.00,5.00,5.00,5.00,2.00,3.00,1.00,5.00,5.00,5.00
+5/12/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4.00,5.00,5.00,5.00,5.00,5.00,5.00,2.00,4.00,5.00,4.00,1.00
+5/12/22,20.00,Female,In a relationship,School Student,"Company, Private",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5.00,4.00,2.00,3.00,3.00,2.00,1.00,3.00,3.00,2.00,2.00,2.00
+5/12/22,27.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4.00,2.00,1.00,2.00,3.00,1.00,2.00,3.00,4.00,2.00,2.00,1.00
+5/12/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5.00,4.00,4.00,4.00,4.00,4.00,2.00,4.00,3.00,5.00,4.00,3.00
+5/12/22,21.00,Female,Single,University Student,University,Yes,Facebook,More than 5 hours,4.00,4.00,3.00,5.00,4.00,5.00,4.00,3.00,4.00,5.00,5.00,5.00
+5/12/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2.00,1.00,4.00,2.00,2.00,2.00,3.00,3.00,2.00,1.00,4.00,4.00
+5/12/22,24.00,Female,Single,University Student,N/A,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3.00,4.00,1.00,5.00,4.00,5.00,3.00,3.00,4.00,5.00,5.00,5.00
+5/12/22,19.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4.00,2.00,3.00,3.00,4.00,3.00,2.00,2.00,2.00,4.00,4.00,3.00
+5/12/22,52.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Between 1 and 2 hours,2.00,2.00,3.00,3.00,3.00,2.00,3.00,2.00,2.00,3.00,2.00,4.00
+5/12/22,26.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,5.00,4.00,3.00,4.00,4.00,4.00,3.00,3.00,2.00,3.00,4.00,5.00
+5/12/22,44.00,Male,Married,Salaried Worker,Private,Yes,Facebook,Less than an Hour,1.00,1.00,1.00,2.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+5/12/22,44.00,Male,Married,Salaried Worker,Private,Yes,Facebook,Less than an Hour,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+5/12/22,19.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,4.00,5.00,2.00,4.00,5.00,3.00,5.00,5.00,1.00,5.00,4.00,5.00
+5/12/22,35.00,Male,Single,Salaried Worker,Private,Yes,"Facebook, Snapchat, Reddit",Between 3 and 4 hours,5.00,5.00,5.00,5.00,5.00,5.00,5.00,1.00,1.00,5.00,5.00,5.00
+5/12/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, Snapchat",More than 5 hours,3.00,5.00,2.00,5.00,3.00,5.00,4.00,2.00,4.00,4.00,3.00,3.00
+5/12/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, TikTok",Between 4 and 5 hours,4.00,5.00,5.00,5.00,5.00,5.00,2.00,2.00,1.00,4.00,5.00,1.00
+5/12/22,24.00,Female,In a relationship,University Student,Private,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",More than 5 hours,5.00,2.00,4.00,2.00,5.00,1.00,3.00,2.00,4.00,4.00,2.00,5.00
+5/12/22,21.00,Female,Single,University Student,"School, University",Yes,"Facebook, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4.00,4.00,3.00,5.00,5.00,5.00,5.00,1.00,1.00,3.00,3.00,1.00
+5/12/22,24.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",More than 5 hours,3.00,4.00,4.00,4.00,3.00,3.00,2.00,3.00,1.00,3.00,3.00,3.00
+5/12/22,21.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,5.00,3.00,3.00,5.00,5.00,5.00,5.00,3.00,1.00,5.00,4.00,5.00
+5/12/22,17.00,Male,Single,School Student,School,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2.00,4.00,3.00,5.00,5.00,5.00,3.00,2.00,1.00,5.00,4.00,5.00
+5/12/22,26.00,Female,In a relationship,University Student,University,Yes,Facebook,Between 4 and 5 hours,4.00,4.00,2.00,4.00,3.00,4.00,3.00,3.00,2.00,4.00,3.00,4.00
+5/12/22,18.00,Male,Single,School Student,School,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4.00,5.00,4.00,5.00,5.00,4.00,4.00,3.00,3.00,5.00,3.00,5.00
+5/12/22,18.00,Female,Single,School Student,"School, N/A",Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2.00,1.00,1.00,3.00,3.00,2.00,1.00,3.00,1.00,2.00,2.00,2.00
+5/12/22,18.00,Female,In a relationship,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5.00,3.00,4.00,3.00,4.00,4.00,1.00,3.00,1.00,3.00,5.00,5.00
+5/12/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3.00,4.00,2.00,4.00,5.00,4.00,2.00,3.00,2.00,4.00,3.00,3.00
+5/12/22,20.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,4.00,5.00,3.00,5.00,2.00,5.00,1.00,2.00,3.00,3.00,2.00,1.00
+5/12/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4.00,4.00,3.00,4.00,5.00,4.00,4.00,3.00,2.00,3.00,3.00,5.00
+5/12/22,25.00,Male,In a relationship,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",Less than an Hour,2.00,2.00,3.00,2.00,3.00,3.00,3.00,4.00,3.00,2.00,2.00,4.00
+5/12/22,26.00,Male,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Reddit",Between 2 and 3 hours,4.00,3.00,3.00,3.00,5.00,4.00,4.00,1.00,4.00,5.00,5.00,4.00
+5/12/22,20.00,Male,In a relationship,University Student,"School, University",Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4.00,5.00,3.00,4.00,5.00,4.00,5.00,2.00,4.00,4.00,4.00,5.00
+5/12/22,19.00,Male,In a relationship,School Student,School,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,4.00,3.00,1.00,3.00,4.00,2.00,2.00,3.00,3.00,1.00,4.00,3.00
+5/12/22,17.00,Female,Single,School Student,N/A,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4.00,1.00,3.00,2.00,5.00,4.00,5.00,5.00,1.00,4.00,4.00,1.00
+5/12/22,24.00,Female,Married,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4.00,3.00,5.00,3.00,3.00,5.00,4.00,2.00,3.00,3.00,3.00,3.00
+5/12/22,29.00,Female,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,5.00,5.00,5.00,4.00,5.00,4.00,3.00,3.00,4.00,4.00,4.00,3.00
+5/12/22,30.00,Female,Married,Retired,N/A,Yes,"Facebook, Instagram, YouTube",Between 3 and 4 hours,1.00,5.00,1.00,2.00,3.00,3.00,2.00,4.00,3.00,3.00,3.00,2.00
+5/12/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4.00,5.00,4.00,4.00,5.00,5.00,5.00,1.00,3.00,5.00,4.00,4.00
+5/13/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4.00,3.00,2.00,4.00,4.00,4.00,3.00,3.00,3.00,5.00,5.00,5.00
+5/13/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5.00,5.00,2.00,3.00,4.00,3.00,4.00,4.00,4.00,5.00,3.00,5.00
+5/13/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",More than 5 hours,3.00,5.00,3.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00
+5/13/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4.00,3.00,2.00,5.00,5.00,4.00,5.00,1.00,3.00,5.00,5.00,5.00
+5/13/22,22.00,Female,Single,University Student,University,Yes,YouTube,Between 4 and 5 hours,3.00,1.00,2.00,3.00,4.00,2.00,2.00,1.00,1.00,4.00,3.00,5.00
+5/13/22,22.00,Female,Single,University Student,University,Yes,"Facebook, Instagram",Between 2 and 3 hours,3.00,2.00,2.00,2.00,5.00,3.00,5.00,2.00,5.00,3.00,3.00,5.00
+5/13/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, Snapchat",More than 5 hours,1.00,5.00,2.00,3.00,5.00,2.00,1.00,2.00,2.00,3.00,3.00,4.00
+5/13/22,27.00,Female,In a relationship,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,4.00,3.00,3.00,4.00,3.00,3.00,4.00,2.00,4.00,2.00,1.00,2.00
+5/13/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5.00,4.00,2.00,2.00,2.00,3.00,2.00,3.00,1.00,2.00,2.00,5.00
+5/13/22,23.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4.00,3.00,2.00,4.00,4.00,3.00,4.00,4.00,4.00,4.00,3.00,4.00
+5/13/22,22.00,Male,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4.00,4.00,5.00,4.00,2.00,4.00,3.00,3.00,4.00,2.00,3.00,4.00
+5/13/22,21.00,Female,In a relationship,University Student,"University, Private",Yes,YouTube,Between 3 and 4 hours,3.00,4.00,4.00,3.00,3.00,3.00,2.00,5.00,3.00,1.00,3.00,2.00
+5/13/22,23.00,Male,Single,University Student,"University, Company",Yes,"Facebook, YouTube, Discord, Reddit",Between 2 and 3 hours,4.00,2.00,1.00,2.00,3.00,2.00,3.00,3.00,1.00,3.00,2.00,2.00
+5/13/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",More than 5 hours,4.00,5.00,3.00,4.00,4.00,4.00,3.00,3.00,4.00,4.00,4.00,3.00
+5/13/22,20.00,Male,Single,University Student,"University, Private",Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5.00,3.00,2.00,3.00,4.00,2.00,2.00,4.00,3.00,3.00,4.00,3.00
+5/13/22,23.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 1 and 2 hours,2.00,1.00,1.00,2.00,5.00,3.00,3.00,4.00,1.00,3.00,2.00,4.00
+5/13/22,22.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,3.00,5.00,3.00,5.00,5.00,5.00,5.00,3.00,3.00,5.00,4.00,5.00
+5/13/22,20.00,Female,In a relationship,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5.00,3.00,4.00,3.00,5.00,5.00,5.00,1.00,4.00,5.00,5.00,3.00
+5/13/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4.00,4.00,4.00,4.00,4.00,5.00,4.00,1.00,4.00,4.00,4.00,5.00
+5/13/22,25.00,Female,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3.00,5.00,2.00,2.00,3.00,3.00,1.00,3.00,1.00,2.00,4.00,5.00
+5/13/22,21.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, Discord",Between 3 and 4 hours,2.00,2.00,1.00,4.00,4.00,4.00,2.00,1.00,1.00,2.00,2.00,2.00
+5/13/22,28.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4.00,3.00,1.00,4.00,5.00,4.00,1.00,3.00,1.00,4.00,1.00,5.00
+5/13/22,22.00,Female,Single,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,1.00,1.00,1.00,5.00,3.00,5.00,1.00,1.00,1.00,3.00,4.00,3.00
+5/13/22,60.00,Male,Single,Retired,N/A,Yes,"Facebook, YouTube",Between 2 and 3 hours,1.00,2.00,1.00,1.00,1.00,1.00,3.00,3.00,3.00,1.00,1.00,1.00
+5/13/22,49.00,Male,Married,Salaried Worker,School,Yes,"Facebook, YouTube, Pinterest",Less than an Hour,3.00,4.00,3.00,3.00,4.00,3.00,3.00,3.00,3.00,3.00,2.00,2.00
+5/13/22,34.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube",Less than an Hour,2.00,1.00,1.00,1.00,1.00,1.00,3.00,4.00,1.00,1.00,2.00,1.00
+5/13/22,56.00,Male,Married,Salaried Worker,Company,Yes,"Facebook, Twitter, YouTube, Pinterest",Between 2 and 3 hours,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,2.00
+5/13/22,51.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3.00,2.00,3.00,4.00,2.00,3.00,4.00,3.00,3.00,2.00,2.00,4.00
+5/14/22,23.00,Female,Single,School Student,University,Yes,Facebook,Between 2 and 3 hours,3.00,3.00,3.00,3.00,3.00,2.00,2.00,3.00,3.00,4.00,2.00,2.00
+5/14/22,21.00,Female,Single,University Student,University,Yes,"Facebook, YouTube, Discord",Between 4 and 5 hours,3.00,5.00,3.00,3.00,3.00,2.00,3.00,3.00,1.00,2.00,2.00,3.00
+5/14/22,50.00,Male,Married,University Student,Private,Yes,"Facebook, Instagram",Between 1 and 2 hours,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+5/14/22,22.00,Female,Single,University Student,University,Yes,"Twitter, Instagram, YouTube",Between 3 and 4 hours,2.00,2.00,1.00,4.00,5.00,5.00,1.00,4.00,1.00,3.00,5.00,2.00
+5/14/22,28.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5.00,4.00,1.00,5.00,4.00,5.00,2.00,2.00,2.00,5.00,5.00,2.00
+5/14/22,13.00,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord",Between 4 and 5 hours,3.00,4.00,1.00,3.00,3.00,1.00,1.00,3.00,1.00,3.00,3.00,4.00
+5/14/22,14.00,Male,Single,School Student,School,Yes,"Instagram, Discord",Between 2 and 3 hours,3.00,4.00,2.00,4.00,3.00,2.00,1.00,3.00,1.00,2.00,3.00,1.00
+5/14/22,13.00,Male,Single,School Student,School,Yes,"Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,4.00,4.00,3.00,4.00,2.00,4.00,2.00,3.00,2.00,2.00,3.00,2.00
+5/14/22,23.00,Male,In a relationship,School Student,"University, Private",Yes,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,2.00,4.00,2.00,3.00,4.00,4.00,1.00,3.00,1.00,3.00,2.00,3.00
+5/14/22,18.00,Male,Single,University Student,University,Yes,"Discord, Reddit",Between 1 and 2 hours,3.00,3.00,1.00,3.00,2.00,1.00,1.00,2.00,1.00,1.00,2.00,4.00
+5/14/22,18.00,Male,Single,School Student,"School, N/A",Yes,Pinterest,More than 5 hours,2.00,3.00,1.00,3.00,5.00,3.00,5.00,1.00,2.00,5.00,2.00,1.00
+5/14/22,15.00,Male,Single,School Student,School,Yes,"Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,1.00,1.00,1.00,3.00,3.00,3.00,3.00,3.00,3.00,1.00,1.00,1.00
+5/15/22,20.00,Female,Single,University Student,Company,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,2.00,2.00,1.00,3.00,5.00,3.00,5.00,1.00,2.00,5.00,4.00,5.00
+5/16/22,20.00,Female,Single,University Student,University,Yes,"Facebook, Instagram, YouTube",More than 5 hours,5.00,4.00,2.00,4.00,5.00,3.00,1.00,3.00,2.00,4.00,3.00,4.00
+5/17/22,35.00,Female,Married,Salaried Worker,Company,Yes,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3.00,2.00,2.00,3.00,3.00,2.00,1.00,2.00,2.00,2.00,4.00,4.00
+5/18/22,26.00,Female,Married,University Student,N/A,Yes,"Facebook, YouTube, TikTok",Between 2 and 3 hours,4.00,4.00,3.00,3.00,4.00,4.00,4.00,5.00,3.00,4.00,3.00,4.00
+5/21/22,30.00,Female,Married,Salaried Worker,University,Yes,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2.00,4.00,4.00,3.00,4.00,5.00,4.00,2.00,2.00,4.00,2.00,1.00
+5/21/22,32.00,Female,Married,Salaried Worker,Private,Yes,"Facebook, Instagram",Between 3 and 4 hours,5.00,5.00,3.00,5.00,5.00,5.00,5.00,1.00,4.00,5.00,5.00,4.00
+5/21/22,24.00,Male,Single,Salaried Worker,"University, Private",Yes,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3.00,4.00,3.00,4.00,3.00,4.00,4.00,2.00,4.00,3.00,4.00,4.00
+5/22/22,26.00,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 1 and 2 hours,2.00,1.00,2.00,3.00,4.00,4.00,4.00,2.00,4.00,4.00,4.00,1.00
+5/22/22,29.00,Female,Married,Salaried Worker,University,Yes,"Facebook, YouTube",Between 2 and 3 hours,3.00,3.00,4.00,3.00,2.00,3.00,3.00,3.00,4.00,2.00,2.00,2.00
+7/14/22,21.00,Male,Single,University Student,University,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2.00,3.00,2.00,3.00,3.00,2.00,2.00,3.00,4.00,4.00,5.00,4.00
+11/12/22,53.00,Male,Married,Salaried Worker,Private,Yes,"Facebook, YouTube",Less than an Hour,2.00,3.00,1.00,3.00,1.00,1.00,3.00,3.00,2.00,2.00,2.00,3.00
